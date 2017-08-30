@@ -1,0 +1,7 @@
+Code-Review+2: Corinna Vinschen <xda@vinschen.de>
+Verified+1: Corinna Vinschen <xda@vinschen.de>
+Submitted-by: Corinna Vinschen <xda@vinschen.de>
+Submitted-at: Wed, 30 Aug 2017 07:39:24 +0000
+Reviewed-on: https://gerrit.twrp.me/2664
+Project: android_kernel_samsung_apq8084
+Branch: refs/heads/cm-14.1
